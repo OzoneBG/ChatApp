@@ -1,0 +1,28 @@
+Server started on 192.168.0.101:8888
+New client connection request!
+Client Anonymous connected!
+Anonymous sent dsa
+Anonymous sent sad
+Anonymous sent asd
+Anonymous sent sa
+Anonymous sent dsa
+Anonymous sent d
+Anonymous sent sad
+Anonymous sent sa
+Anonymous sent da
+Anonymous sent sd
+Anonymous sent sa
+Anonymous sent dsa
+Anonymous sent dsa
+Anonymous sent d
+Anonymous sent sad
+Anonymous sent sa
+Anonymous sent das
+Anonymous sent d
+Anonymous sent as
+Anonymous sent dsa
+Anonymous sent d
+Anonymous sent as
+Anonymous sent das
+Anonymous sent d
+Client id 1 disconnected!
