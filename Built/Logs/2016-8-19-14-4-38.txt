@@ -1,5 +1,0 @@
-Server started on 192.168.0.101:8888
-New client connection request!
-Client OzoneBG connected!
-OzoneBG sent hello
-Client id 1 disconnected!
